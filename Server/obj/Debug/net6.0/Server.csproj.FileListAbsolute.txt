@@ -29,3 +29,6 @@ D:\Unity Projects\Learning Projects\GameServer\Server\obj\Debug\net6.0\refint\Se
 D:\Unity Projects\Learning Projects\GameServer\Server\obj\Debug\net6.0\Server.pdb
 D:\Unity Projects\Learning Projects\GameServer\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
 D:\Unity Projects\Learning Projects\GameServer\Server\obj\Debug\net6.0\ref\Server.dll
+D:\Unity Projects\Learning Projects\GameServer\Server\bin\Debug\net6.0\SharedLibrary.dll
+D:\Unity Projects\Learning Projects\GameServer\Server\bin\Debug\net6.0\SharedLibrary.pdb
+D:\Unity Projects\Learning Projects\GameServer\Server\obj\Debug\net6.0\Server.csproj.CopyComplete

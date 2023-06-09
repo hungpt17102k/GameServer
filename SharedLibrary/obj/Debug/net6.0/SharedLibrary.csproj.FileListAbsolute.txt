@@ -1,0 +1,12 @@
+D:\Unity Projects\Learning Projects\GameServer\SharedLibrary\bin\Debug\net6.0\SharedLibrary.deps.json
+D:\Unity Projects\Learning Projects\GameServer\SharedLibrary\bin\Debug\net6.0\SharedLibrary.dll
+D:\Unity Projects\Learning Projects\GameServer\SharedLibrary\bin\Debug\net6.0\SharedLibrary.pdb
+D:\Unity Projects\Learning Projects\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.csproj.AssemblyReference.cache
+D:\Unity Projects\Learning Projects\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity Projects\Learning Projects\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\Unity Projects\Learning Projects\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfo.cs
+D:\Unity Projects\Learning Projects\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\Unity Projects\Learning Projects\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.dll
+D:\Unity Projects\Learning Projects\GameServer\SharedLibrary\obj\Debug\net6.0\refint\SharedLibrary.dll
+D:\Unity Projects\Learning Projects\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.pdb
+D:\Unity Projects\Learning Projects\GameServer\SharedLibrary\obj\Debug\net6.0\ref\SharedLibrary.dll
