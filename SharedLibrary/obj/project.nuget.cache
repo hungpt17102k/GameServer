@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4KPEycS9z95GLafXdLijtrLq4kvJ8RYMWWrwvY30I77gNNDt9u1X29LpJE8Zdc46hGvnX09zm2rtT4gum9uVaw==",
+  "dgSpecHash": "EWRp0uupbHTUBJHmxGRVdC9SnZ2Q8jtohIkKdONq/oQ24tlMKTNlIa+GN9vYWur2ghy+vMbJHBBAScFy0OEobg==",
   "success": true,
-  "projectFilePath": "D:\\Unity Projects\\Learning Projects\\GameServer\\SharedLibrary\\SharedLibrary.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Unity Projects\\Learning Projects\\GameServer\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hungp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hungp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hungp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

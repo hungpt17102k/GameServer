@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Unity Projects\\Learning Projects\\GameServer\\SharedLibrary\\SharedLibrary.csproj": {}
+    "E:\\Unity Projects\\Learning Projects\\GameServer\\SharedLibrary\\SharedLibrary.csproj": {}
   },
   "projects": {
-    "D:\\Unity Projects\\Learning Projects\\GameServer\\SharedLibrary\\SharedLibrary.csproj": {
+    "E:\\Unity Projects\\Learning Projects\\GameServer\\SharedLibrary\\SharedLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unity Projects\\Learning Projects\\GameServer\\SharedLibrary\\SharedLibrary.csproj",
+        "projectUniqueName": "E:\\Unity Projects\\Learning Projects\\GameServer\\SharedLibrary\\SharedLibrary.csproj",
         "projectName": "SharedLibrary",
-        "projectPath": "D:\\Unity Projects\\Learning Projects\\GameServer\\SharedLibrary\\SharedLibrary.csproj",
-        "packagesPath": "C:\\Users\\HikerGames\\.nuget\\packages\\",
-        "outputPath": "D:\\Unity Projects\\Learning Projects\\GameServer\\SharedLibrary\\obj\\",
+        "projectPath": "E:\\Unity Projects\\Learning Projects\\GameServer\\SharedLibrary\\SharedLibrary.csproj",
+        "packagesPath": "C:\\Users\\hungp\\.nuget\\packages\\",
+        "outputPath": "E:\\Unity Projects\\Learning Projects\\GameServer\\SharedLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HikerGames\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\hungp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,12 +48,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

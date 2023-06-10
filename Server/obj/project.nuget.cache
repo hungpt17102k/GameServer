@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "RGqQPeC0sKg/BL0uc4BxWDTayQ0Rjh8I6VokwdOjVv8Xy7OFR9n0EDEU/gmE5xVBZXgmU8TxRk2s5Ylx+/Fd1w==",
+  "dgSpecHash": "QEimnx08gNv4DwFzS3qtl0Kq4LVPHla4Yq1k2tHLA2A7jsiHsIKyzi46ia/bxVKjEgGsRCTFwSYu2ENUApOlUQ==",
   "success": true,
-  "projectFilePath": "D:\\Unity Projects\\Learning Projects\\GameServer\\Server\\Server.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Unity Projects\\Learning Projects\\GameServer\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hungp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\hungp\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hungp\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\hungp\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\hungp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\hungp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\hungp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hungp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hungp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hungp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

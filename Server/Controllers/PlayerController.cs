@@ -7,10 +7,10 @@ namespace Server.Controllers;
 [Route("[controller]")]
 public class PlayerController : ControllerBase
 {
-    [HttpGet]
+    [HttpGet("{id}")]
     public Player Get([FromQuery] int id)
     {
-        var player = new Player() {Id = id};
+        var player = new Player(){Id = id};
 
         return player;
     }
@@ -19,7 +19,6 @@ public class PlayerController : ControllerBase
     public Player Post(Player player)
     {
         Console.WriteLine("Player has been added to the DB");
-
         return player;
     }
 }
