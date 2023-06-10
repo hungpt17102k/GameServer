@@ -5,10 +5,6 @@ E:\Unity Projects\Learning Projects\GameServer\Server\bin\Debug\net6.0\Server.de
 E:\Unity Projects\Learning Projects\GameServer\Server\bin\Debug\net6.0\Server.runtimeconfig.json
 E:\Unity Projects\Learning Projects\GameServer\Server\bin\Debug\net6.0\Server.dll
 E:\Unity Projects\Learning Projects\GameServer\Server\bin\Debug\net6.0\Server.pdb
-E:\Unity Projects\Learning Projects\GameServer\Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
-E:\Unity Projects\Learning Projects\GameServer\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-E:\Unity Projects\Learning Projects\GameServer\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\Unity Projects\Learning Projects\GameServer\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\Unity Projects\Learning Projects\GameServer\Server\bin\Debug\net6.0\SharedLibrary.dll
 E:\Unity Projects\Learning Projects\GameServer\Server\bin\Debug\net6.0\SharedLibrary.pdb
 E:\Unity Projects\Learning Projects\GameServer\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
@@ -16,7 +12,6 @@ E:\Unity Projects\Learning Projects\GameServer\Server\obj\Debug\net6.0\Server.Ge
 E:\Unity Projects\Learning Projects\GameServer\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
 E:\Unity Projects\Learning Projects\GameServer\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
 E:\Unity Projects\Learning Projects\GameServer\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
-E:\Unity Projects\Learning Projects\GameServer\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cs
 E:\Unity Projects\Learning Projects\GameServer\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cache
 E:\Unity Projects\Learning Projects\GameServer\Server\obj\Debug\net6.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
 E:\Unity Projects\Learning Projects\GameServer\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Server.props

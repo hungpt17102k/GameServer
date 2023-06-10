@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Server.Services;
 using SharedLibrary;
 
 namespace Server.Controllers;
@@ -7,10 +8,19 @@ namespace Server.Controllers;
 [Route("[controller]")]
 public class PlayerController : ControllerBase
 {
-    [HttpGet("{id}")]
+    // private readonly IPlayerService _playerService;
+
+    // public PlayerController(IPlayerService playerService)
+    // {
+    //     _playerService = playerService;
+    // }
+    
+    [HttpGet("{id:int}")]
     public Player Get([FromQuery] int id)
     {
         var player = new Player(){Id = id};
+        
+        // _playerService.DoSomething();
 
         return player;
     }
